@@ -2,11 +2,12 @@
 
 ## Who we are
 
-- *Todd Knutson, PhD*: bioinformatics analyst and manager, [@toddknutson](https://github.com/toddknutson), [MSI bio](https://msi.umn.edu/about-msi/our-experts/todd-p-knutson-phd), [PubMed](), [Google Scholar](https://scholar.google.com/citations?user=PG4UAxgAAAAJ&hl=en)
-- *Rebecca LaRue, PhD*: bioinformatics analyst
-- *Christine O'Connor, PhD*: bioinformatics analyst
-- *Braedan McCluskey, PhD*: bioinformatics analyst
-- *Allison Haaning, PhD*: bioinformatics analyst
+- Todd Knutson, PhD: bioinformatics analyst and manager
+    [@toddknutson](https://github.com/toddknutson), [MSI bio](https://msi.umn.edu/about-msi/our-experts/todd-p-knutson-phd), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=knutson+tp%5Bau%5D&sort=date), [Google Scholar](https://scholar.google.com/citations?user=PG4UAxgAAAAJ&hl=en)
+- Rebecca LaRue, PhD: bioinformatics analyst
+- Christine O'Connor, PhD: bioinformatics analyst
+- Braedan McCluskey, PhD: bioinformatics analyst
+- Allison Haaning, PhD: bioinformatics analyst
 
 
 ## How we work

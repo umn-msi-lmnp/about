@@ -1,6 +1,6 @@
 # How to set up GitHub.com for use with UMN Organizations
 
-All of our code is synced with [GitHub.com](GitHub.com) via a UMN-owned [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). You'll need to follow the steps below to obtain access,  [GitHub Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) 
+All of our code is synced with [GitHub.com](GitHub.com) via a UMN-owned [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). You'll need to follow the steps below to obtain access.
 
 ## You will need a GitHub.com account
 

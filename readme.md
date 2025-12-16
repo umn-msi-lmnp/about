@@ -24,7 +24,7 @@
         - Parse Biosciences (soon to be par to QIAgen)
     - Bulk RNAseq, via CHURP, our MSI-built pipeline 
     - Pathway analysis
-        - GSEA, GO term enrichment, 
+        - GSEA, GO term enrichment
     - WGCNA
 - Variant calling
 

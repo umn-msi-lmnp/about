@@ -9,6 +9,10 @@ The Department of Laboratory Medicine and Pathology (LMP) and the Minnesota Supe
 
 Our LMP bioinformatics team includes five analysts working within MSI’s Research Informatics (RI) – Bioinformatics section, which comprises of approximately 20 analysts in total. This document outlines how we work: our roles, project goals, values, and expectations when partnering with collaborators. It builds on elements of the MSI/LMP Memorandum of Understanding (MOU) and provides practical guidance for day-to-day collaboration.
 
+## Clear break between research and clinical
+
+
+
 ## Roles
 
 ### The Principal Investigator (PI)
@@ -24,7 +28,7 @@ Our LMP bioinformatics team includes five analysts working within MSI’s Resear
 - Engages with analysts on project-specific details
 - Helps with data interpretation and generating follow-up questions
 - Supplies important metadata, wet-bench manuals/methods
-- **Manages communication with other collaborators** (e.g. UMGC)
+- **Manages communication with other collaborators** (e.g. UMGC/BPIC/UIC)
 - Is responsible for generating final "publication ready" figures
 
 ### The Bioinformatics Analyst
@@ -41,7 +45,7 @@ Our LMP bioinformatics team includes five analysts working within MSI’s Resear
   - Markdown or AI summaries could also be helpful communicating dynamic updates
   - Email summaries (bullet points) are also sufficient
 - Communication timing may be non-linear, but when important feedback is needed, we connect as soon as possible
-- All project code will be synced with GitHub.umn.edu
+- All project code will be synced with GitHub.com
 - Writes a custom methods section for any results included in publications
   - Writing a separate methods section for all analysis is not generally useful
   - These summaries become out of date (incorrect) quickly
@@ -52,6 +56,8 @@ Our LMP bioinformatics team includes five analysts working within MSI’s Resear
   - The location of these backups will be included in the project README file
 - Maintains professional and collaborative communication
 - Generates timely results and communicates roadblocks as soon as possible
+
+
 
 ### The Informatics Team
 
@@ -88,6 +94,13 @@ Projects typically begin when a PI reaches out to discuss a research or clinical
 - Timelines
 - Roles and responsibilities
 
+
+TODO: communication style and frequency
+TODO: When we should talk? Before, during, after... (define all of those)
+TODO: what background reading do we do? Do we do a lot of background? or focus more on the tools? 
+TODO: our job is to get the data analyzed correctly 
+TODO: we may not be able to "give the answer" -- set realistic expections
+
 ### Assignment and Time Allocation
 
 An analyst is assigned to the project based on availability, interest, and experience or best fit. Assignments are typically planned in monthly increments, with regular reviews of progress and needs. Time may be extended depending on funding and project complexity. Funding may come from the LMP department or from PI-supported grants as a percent effort.
@@ -95,6 +108,14 @@ An analyst is assigned to the project based on availability, interest, and exper
 ### Communication and Milestones
 
 We maintain regular communication through meetings, email, and shared documentation. Analysts provide updates on progress, request clarification when needed, and document all methods and code. Deliverables are shared in stages, with an emphasis on clarity, reproducibility, and feedback.
+
+## TODO Timelines, Deadlines -- really hard to define (especially for clinical pipelines).
+- TODO: Creating arbitray deadlines is not helpful
+- TODO: Include manager in strict deadline decisions
+- TODO: do we want to write statements of work?
+- "custom" bioinformatics, not just running pipelines, we're cross-disciplary
+- we're not algorithm developers (per se!)
+- 
 
 ## Expectations and Responsibilities
 
@@ -106,6 +127,24 @@ We maintain regular communication through meetings, email, and shared documentat
 - Shared understanding of goals and timelines
 - Transparency in methods and reproducibility
 - Commitment to robust, scalable, and interpretable analysis
+
+## TODO How we're funded
+- TODO: list the ways we're funded
+- TODO: how to request funding (from LMP)
+
+## Working with sensitive data (IRB)
+
+## GEO/SRA/dbGaP submissions, when? embargos, should be uploaded with lead time.
+- What is our role, what is lab memeber's role
+
+
+## Authorship
+- we're scientific collaborators, not analysts for hire
+- Who we are?! We're staff scientists,
+- What is our role with trainees?
+- we produce data using best practices, but we're 
+
+
 
 ## Our Values
 

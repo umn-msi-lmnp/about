@@ -122,8 +122,11 @@ We maintain regular communication through meetings, email, and shared documentat
 - TODO: do we want to write statements of work?
 - "custom" bioinformatics, not just running pipelines, we're cross-disciplary
 - we're not algorithm developers (per se!)
-- 
 
+## Data backup
+
+## Manuscript prep and review
+ 
 ## Expectations and Responsibilities
 
 - Use of high-performance computing (HPC) and core infrastructure

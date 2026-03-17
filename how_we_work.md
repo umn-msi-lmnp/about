@@ -7,10 +7,11 @@ The Department of Laboratory Medicine and Pathology (LMP) and the Minnesota Supe
 1. Research: Supporting bioinformatics-based research projects initiated by LMP Principal Investigators (PIs).
 2. Clinical: Developing and maintaining CLIA-validated and CAP-certified pipelines for somatic and germline variant testing.
 
-Our LMP bioinformatics team includes five analysts working within MSI’s Research Informatics (RI) – Bioinformatics section, which comprises of approximately 20 analysts in total. This document outlines how we work: our roles, project goals, values, and expectations when partnering with collaborators. It builds on elements of the MSI/LMP Memorandum of Understanding (MOU) and provides practical guidance for day-to-day collaboration.
+Our LMP bioinformatics team includes five analysts working within MSI’s Research Informatics (RI) – Bioinformatics section, which comprises approximately 20 analysts in total. This document outlines how we work: our roles, project goals, values, and expectations when partnering with collaborators. It builds on elements of the MSI/LMP Memorandum of Understanding (MOU) and provides practical guidance for day-to-day collaboration.
 
 ## Clear break between research and clinical
 
+Our group of five analysts supports both research and clinical efforts, which differ in structure and scope. For research projects, we typically collaborate with principal investigators (PIs) and their lab members on discrete, month-to-month efforts that can be extended as needed. In contrast, development of clinical pipelines is an iterative and ongoing process that depends on input from multiple stakeholders, including genetic counselors, collaborators in the Advanced Research and Diagnostics Laboratory (ARDL), and members of the Molecular Diagnostics Laboratory (MDL). Analysts contributing to clinical projects ultimately report to the LMP bioinformatics supervisor as well as the director of the MDL.
 
 
 ## Roles
@@ -52,7 +53,7 @@ Our LMP bioinformatics team includes five analysts working within MSI’s Resear
   - We will rely on our code to be the correct source for analysis methods
 - Ensures data continuity, backups, and reproducibility
   - Raw data (e.g. FASTQs) are backed up into PI-owned MSI Tier 2 buckets
-  - Project results may are backed up (at some point) to PI-owned MSI Tier 2 buckets
+  - Project results are eventually backed up to PI-owned MSI Tier 2 buckets
   - The location of these backups will be included in the project README file
 - Maintains professional and collaborative communication
 - Generates timely results and communicates roadblocks as soon as possible

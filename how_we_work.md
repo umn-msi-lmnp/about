@@ -95,6 +95,12 @@ Projects typically begin when a PI reaches out to discuss a research or clinical
 - Timelines
 - Roles and responsibilities
 
+When does this happen? 
+- Ideally an initial project meeting will occur before the sequencing experiment has started, this allows analysts to provide input on ideal numbers of biological replicates, sequencing design and more
+- Depending on other projects we have in the queue it may be a couple of months before we can schedule a project, so meeting early helps set expectations about when we can complete the work
+- 
+Communication  
+- Style and frequency of communication will vary by PI preference buy typically includes regular email updates and/or meetings, either in person or via Zoom
 
 TODO: communication style and frequency
 TODO: When we should talk? Before, during, after... (define all of those)

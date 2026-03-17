@@ -84,6 +84,13 @@ Our group of five analysts supports both research and clinical efforts, which di
 - Best practices in method selection and documentation
 - Responsiveness and adaptability to project needs
 
+## What You Must Provide
+
+- Final edits of .pdf outputs requiring Adobe Illustrator or similar tools
+  - Our goal is to get a figure 80% there, but resizing, font changes, etc. are best done in dedicated tools.
+- Specialized subject matter expertise on a project's biology
+  - We can cover the informatics and general biology, but we are not experts on each lab's specific topics
+
 ## Project Lifecycle
 
 ### Project Initiation

@@ -8,11 +8,12 @@
 - [Braedan McCluskey, PhD](https://msi.umn.edu/about-msi/our-experts/braedan-mccluskey-phd): bioinformatics analyst
 - [Allison Haaning, PhD](https://msi.umn.edu/about-msi/our-experts/allison-m-haaning-phd): bioinformatics analyst
 
+Our team is part of the larger Research Informatics ([Bioinformatics](https://msi.umn.edu/getting-started/about-msi/our-experts)) division at MSI.
 
 ## How we work
 
-- [Roles, Goals, and Expectations](./how_we_work.md)
-- [How to access GitHub](./how_to_access_github.md)
+- [How we work](./how_we_work.md)
+- [How to access our GitHub Organization](./how_to_access_github.md)
 
 ## Our experience
 

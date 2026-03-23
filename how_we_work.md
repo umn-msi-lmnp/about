@@ -26,12 +26,12 @@
 
 ## Introduction
 
-The Department of Laboratory Medicine and Pathology (LMP) and the Minnesota Supercomputing Institute (MSI) have formed a dedicated partnership to advance bioinformatics research and clinical diagnostics using NGS. This collaboration is focused on discrete "projects," broadly defined in two main categories.
+The Department of [Laboratory Medicine and Pathology](https://med.umn.edu/pathology) (LMP) and the [Minnesota Supercomputing Institute](https://msi.umn.edu) (MSI) have formed a dedicated partnership to advance bioinformatics research and clinical diagnostics using NGS. This collaboration is focused on discrete "projects," broadly defined in two main categories.
 
 1. Research: Supporting bioinformatics-based research projects initiated by LMP Principal Investigators (PIs).
 2. Clinical: Developing and maintaining CLIA-validated and CAP-certified pipelines for somatic and germline variant testing.
 
-Our LMP bioinformatics team includes five analysts working within MSI’s Research Informatics (RI) – Bioinformatics division. Our research and clinical efforts differ in structure and scope. For research projects, we typically collaborate with principal investigators (PIs) and their lab members on discrete, month-to-month efforts that can be extended as needed. In contrast, development of clinical pipelines is an iterative and ongoing process that depends on input from multiple stakeholders, including members of the Fairview Molecular Diagnostics Laboratory (MDL).
+Our LMP bioinformatics team includes five analysts working within MSI’s Research Informatics (RI) – [Bioinformatics](https://msi.umn.edu/getting-started/about-msi/our-experts#5921-2) division. Our research and clinical efforts differ in structure and scope. For research projects, we typically collaborate with principal investigators (PIs) and their lab members on discrete, month-to-month efforts that can be extended as needed. In contrast, development of clinical pipelines is an iterative and ongoing process that depends on input from multiple stakeholders, including members of the Fairview Molecular Diagnostics Laboratory (MDL).
 
 This document outlines how we work: our roles, project goals, values, and expectations when partnering with collaborators. It builds on elements of the MSI/LMP Memorandum of Understanding (MOU) and provides practical guidance for day-to-day collaboration.
 

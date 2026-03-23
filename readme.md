@@ -10,7 +10,7 @@
 
 Our team is part of the larger Research Informatics ([Bioinformatics](https://msi.umn.edu/getting-started/about-msi/our-experts)) division at MSI.
 
-## About our partnerships
+## Our partnerships
 
 - [How we work](./how_we_work.md)
 - [How to access our GitHub Organizations](./how_to_access_github.md)

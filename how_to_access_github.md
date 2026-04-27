@@ -1,10 +1,11 @@
 # How to set up GitHub.com for use with UMN Organizations
 
-All of our code is synced with [GitHub.com](https://github.com) via two UMN-owned [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) (below). You can learn more about the UMN Office of Information Technology (OIT) GitHub Organizations via their [docs](https://github-docs.devex.oit.umn.edu/). 
+All of our code is manged via [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) in the UMN GitHub Enterprise Cloud (GHEC) service. You can learn more about the UMN GHEC via their [docs](https://github-docs.devex.oit.umn.edu/). 
 
-We manage two GitHub orgs:
-    - [https://github.com/umn-msi-mdl](https://github.com/umn-msi-mdl) for Fairview MDL clinical projects
-    - [https://github.com/umn-msi-lmnp](https://github.com/umn-msi-lmnp) for all other Lab Med and Pathology related projects
+We manage two GitHub orgs for all our projects:
+
+- [https://github.com/umn-msi-lmnp](https://github.com/umn-msi-lmnp) for Dept. of Laboratory Medicine and Pathology (LMP) projects
+- [https://github.com/umn-msi-mdl](https://github.com/umn-msi-mdl) for Fairview's Molecular Diagnostic Laboratory (MDL) projects
 
 You'll need to follow the steps below to obtain access. 
 
@@ -22,22 +23,22 @@ You'll need to follow the steps below to obtain access.
 - Make sure your UMN email address is one of your "verified" email addresses (you will need to verify by checking your UMN email)
 - The UMN email address does not need to be the primary address on the account
 
-## 3. Request access to a UMN GitHub Organization
+## 3. Request access to a one of our UMN GitHub Organizations
 
-- If you want access to repos in one of our orgs:
-    - Email Todd Knutson and request access: [knut0297@umn.edu](mailto:knut0297@umn.edu)
-    - Todd will invite you to join the org (you'll receive an email from GitHub)
-    - Check your UMN email account and "accept" the invite to the GitHub org
-    - You should be able to access to the organization (however, you still may not see any repos yet)
+If you want access to repos in one of our orgs:
+
+- Email MSI RI-Bio-LMP manager and request access (Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu))
+- Check your UMN email account and "accept" the invite to the GitHub org
+- You should be able to access to the organization (however, you still may have access to private repos yet)
 
 ## 4. Request access to a specific *GitHub Team*, to access repos
 
-- After you are member of the org, we will need to add your GitHub username to one of our GitHub Team 
-- Any of the MSI analysts in our group can give you access to certain repos via GitHub teams
+- After you are member of the org, we will need to add your GitHub username to one of our GitHub Teams
+- Any of the MSI analysts in our group can give you access to certain repos via GitHub Teams
 - We've set up GitHub Teams, usually based on PI names (e.g. `pi-name_team`), and that team will be given access repos
 
 ## Notes
 
-- Please email Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu) if you have any questions!
-- Setting up access is a little cumbersome, but it gives us to fine-grained control over repo permissions.
+- Please email the MSI RI-Bio manager (Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu)) if you have any questions!
+- Setting up access can be a little difficult, but it allows us to provide fine-grained control over repo permissions.
 

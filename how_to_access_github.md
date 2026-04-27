@@ -24,16 +24,15 @@ All of our code is manged via [GitHub Organizations](https://docs.github.com/en/
 
 ## 3. Request access to a one of our UMN GitHub Organizations
 
-If you want access to repos in one of our orgs:
-
 - Email MSI RI-Bio-LMP manager and request access (Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu))
 - Check your UMN email account and "accept" the invite to the GitHub org
-- You should be able to access to the organization (however, you still may have access to private repos yet)
+- You should be able to access to the organization (however, you may not have access to private repos yet)
 
 ## 4. We will assign you to a specific GitHub Team
 
+- We've set up several GitHub Teams, usually based on PI names (e.g. `pi-name_team`)
 - After you are member of the org, we will add your GitHub username to one of our GitHub Teams
-- We've set up GitHub Teams, usually based on PI names (e.g. `pi-name_team`), and that each team will be given access certain repos
+- Each team will be given access certain repos
 
 ## Notes
 

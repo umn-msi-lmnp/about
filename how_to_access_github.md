@@ -1,13 +1,10 @@
 # How to set up GitHub.com for use with UMN Organizations
 
-All of our code is manged via [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) in the UMN GitHub Enterprise Cloud (GHEC) service. You can learn more about the UMN GHEC via their [docs](https://github-docs.devex.oit.umn.edu/). 
-
-We manage two GitHub orgs for all our projects:
+All of our code is manged via [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) in the UMN GitHub Enterprise Cloud (GHEC) service. You can learn more about the UMN GHEC via their [docs](https://github-docs.devex.oit.umn.edu/). You'll need to follow the steps below to obtain access to one of the two GitHub orgs we manage for all our projects: 
 
 - [https://github.com/umn-msi-lmnp](https://github.com/umn-msi-lmnp) for Dept. of Laboratory Medicine and Pathology (LMP) projects
 - [https://github.com/umn-msi-mdl](https://github.com/umn-msi-mdl) for Fairview's Molecular Diagnostic Laboratory (MDL) projects
 
-You'll need to follow the steps below to obtain access. 
 
 ## 1. You will need a GitHub.com account
 

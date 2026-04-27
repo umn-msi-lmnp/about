@@ -36,6 +36,6 @@ All of our code is manged via [GitHub Organizations](https://docs.github.com/en/
 
 ## Notes
 
-- Please email the MSI RI-Bio manager (Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu)) if you have any questions!
+- Please email the MSI RI-Bio-LMP manager (Todd Knutson [knut0297@umn.edu](mailto:knut0297@umn.edu)) if you have any questions!
 - Setting up access can be a little difficult, but it allows us to provide fine-grained control over repo permissions.
 

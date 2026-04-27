@@ -1,5 +1,7 @@
 # How to set up GitHub.com for use with UMN Organizations
 
+## Introduction
+
 All of our code is manged via [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) in the UMN GitHub Enterprise Cloud (GHEC) service. You can learn more about the UMN GHEC via their [docs](https://github-docs.devex.oit.umn.edu/). You'll need to follow the steps below to obtain access to one of the two GitHub orgs we manage for all our projects: 
 
 - [https://github.com/umn-msi-lmnp](https://github.com/umn-msi-lmnp) for Dept. of Laboratory Medicine and Pathology (LMP) projects
@@ -28,11 +30,10 @@ If you want access to repos in one of our orgs:
 - Check your UMN email account and "accept" the invite to the GitHub org
 - You should be able to access to the organization (however, you still may have access to private repos yet)
 
-## 4. Request access to a specific *GitHub Team*, to access repos
+## 4. We will assign you to a specific GitHub Team
 
-- After you are member of the org, we will need to add your GitHub username to one of our GitHub Teams
-- Any of the MSI analysts in our group can give you access to certain repos via GitHub Teams
-- We've set up GitHub Teams, usually based on PI names (e.g. `pi-name_team`), and that team will be given access repos
+- After you are member of the org, we will add your GitHub username to one of our GitHub Teams
+- We've set up GitHub Teams, usually based on PI names (e.g. `pi-name_team`), and that each team will be given access certain repos
 
 ## Notes
 

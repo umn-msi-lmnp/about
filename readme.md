@@ -22,7 +22,8 @@ Our team is part of the larger Research Informatics ([Bioinformatics](https://ms
 - Gene expression analysis
     - Single cell sequencing analysis
         - 10X Genomics
-        - Parse Biosciences (soon to be par to QIAgen)
+        - Parse Biosciences (soon to be part of QIAgen)
+    - Spatial transcriptomic analysis  
     - Bulk RNAseq, via CHURP, our MSI-built pipeline 
     - Pathway analysis
         - GSEA, GO term enrichment

@@ -105,7 +105,7 @@ We are employees of MSI and our effort is supported by the Department of Laborat
     - The letter ends by listing the percentage of analyst effort needed for the project per year (e.g. 25% of an analyst's effort per year for three years).
     - After the grant is funded, we will support the project as requested (with flexible scheduling within the grant period).
 
-NOTE: __If we are supported via a grant, you do not need to submit your proposal to the LMP department for approval. That is submission is only needed for option #1.__
+_NOTE: If we are supported via a grant, you do not need to submit your proposal to the LMP department for approval. That is submission is only needed for option #1._
 
 
 ### Assignment and Time Allocation

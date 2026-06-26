@@ -9,8 +9,8 @@
 * [Roles](#roles)
   * [The Principal Investigator (PI)](#the-principal-investigator-pi)
   * [The PI's Research Team](#the-pis-research-team)
-  * [The MSI Informatics Team](#the-msi-informatics-team)
   * [The MSI Bioinformatics Analyst](#the-msi-bioinformatics-analyst)
+  * [The MSI Informatics Team](#the-msi-informatics-team)
 * [Project Life Cycle](#project-life-cycle)
   * [Project Initiation](#project-initiation)
   * [How We're Funded](#how-were-funded)
@@ -53,17 +53,8 @@ The purpose of this section is to define the general expectations for each role 
 - Engages with analysts on project-specific details
 - Helps with data interpretation and generating follow-up questions
 - Supplies important metadata, wet-lab manuals/methods
-- Manages communication with other collaborators (e.g. UMGC/BPIC/UIC)
+- Manages communication with other internal/external collaborators (e.g. UMGC/BPIC/UIC)
 - Is responsible for generating final "publication-ready" figures
-
-### The MSI Informatics Team
-
-- Includes the LMP bioinformatics manager, other MSI analysts, and core staff (e.g., UMGC contacts)
-- Offers technical guidance and shares previous experience with the primary analyst at multiple weekly group meetings (or whenever needed)
-- If a project needs to switch analysts, we all work together to maintain a smooth transition
-- The LMP bioinformatics manager is responsible for assigning an analyst to a project based on timing and best fit
-- The LMP bioinformatics manager is available to support the dedicated analyst and/or the PI team if communication or technical issues arise
-
 
 ### The MSI Bioinformatics Analyst
 
@@ -73,6 +64,20 @@ The purpose of this section is to define the general expectations for each role 
 - Uses the high-performance computing (HPC) and core infrastructure at MSI or other University resources
 - Provides customized expert analysis using the most appropriate tools and methods
 - We view our work as a research collaboration
+
+### The MSI Informatics Team
+
+- Includes the LMP bioinformatics manager and other MSI analysts:
+    - [Todd Knutson, PhD](https://msi.umn.edu/about-msi/our-experts/todd-p-knutson-phd): bioinformatics analyst and manager
+    - [Rebecca LaRue, PhD](https://msi.umn.edu/about-msi/our-experts/rebecca-larue-phd): bioinformatics analyst
+    - [Christine O'Connor, PhD](https://msi.umn.edu/about-msi/our-experts/christine-oconnor-phd): bioinformatics analyst
+    - [Braedan McCluskey, PhD](https://msi.umn.edu/about-msi/our-experts/braedan-mccluskey-phd): bioinformatics analyst
+    - [Allison Haaning, PhD](https://msi.umn.edu/about-msi/our-experts/allison-m-haaning-phd): bioinformatics analyst
+- Offers technical guidance and shares previous experience with the primary analyst at multiple weekly group meetings (or whenever needed)
+- If a project needs to switch analysts, we all work together to maintain a smooth transition
+- The LMP bioinformatics manager is responsible for assigning an analyst to a project based on timing and best fit
+- The LMP bioinformatics manager is available to support the dedicated analyst and/or the PI team if communication or technical issues arise
+
 
 
 
@@ -93,12 +98,14 @@ Projects begin when a PI reaches out to the LMP bioinformatics manager (Todd Knu
 
 We are employees of MSI and our effort is supported by the Department of Laboratory Medicine. If you need support, email the LMP bioinformatics manager (Todd Knutson <knut0297@umn.edu>) to get started. Depending on the project, our work is funded in three main ways:
 
-- PIs can request a *Letter of Support* from MSI (Research Computing) for their grant applications.
+1. PIs can request free support from the LMP department (typically one month). [Details are described here](https://med.umn.edu/pathology/research/research-support) (expand the second section: *Research Bioinformatics Support*).
+2. PIs can provide a UMN chart string account number and schedule specific support time.
+3. PIs can request a *Letter of Support* from MSI (Research Computing) for their grant applications.
     - This letter describes the compute resources available at MSI, and how bioinformatics analysts can support the specific project.
-    - The letter ends by listing the percentage of analyst effort needed for the project per year (e.g. 25% of an analyst's effort per year).
-    - After the grant is funded, we will support the project as requested (with flexible scheduling over the grant period).
-- PIs can provide a UMN chart string account number and schedule specific support time.
-- PIs can request free support from the LMP department (typically one month). [Details are described here](https://med.umn.edu/pathology/research/research-support) (expand the second section: *Research Bioinformatics Support*).
+    - The letter ends by listing the percentage of analyst effort needed for the project per year (e.g. 25% of an analyst's effort per year for three years).
+    - After the grant is funded, we will support the project as requested (with flexible scheduling within the grant period).
+
+NOTE: __If we are supported via a grant, you do not need to submit your proposal to the LMP department for approval. That is submission is only needed for option #1.__
 
 
 ### Assignment and Time Allocation
